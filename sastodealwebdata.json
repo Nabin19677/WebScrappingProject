@@ -1,62 +1,62 @@
 [
-  {
-    "name": "Snack Pack- Coca Cola 2.25l and Samyang Noodles Pack of 5 ",
-    "price": "\u0930\u0942 1,110",
-    "discountPrice": "\u0930\u0942 999"
-  },
-  {
-    "name": "Knorr Chicken Cube 20gm - Pack of 4 ",
-    "price": "\u0930\u0942 140",
-    "discountPrice": null
-  },
-  {
-    "name": "Godrej Bundle ",
-    "price": "\u0930\u0942 1,136",
-    "discountPrice": null
-  },
-  {
-    "name": "Healthy Care Pack ",
-    "price": "\u0930\u0942 1,348",
-    "discountPrice": null
-  },
-  {
-    "name": "Personal Care Pack ",
-    "price": "\u0930\u0942 945",
-    "discountPrice": null
-  },
-  {
-    "name": "Home Care Pack ",
-    "price": "\u0930\u0942 1,131",
-    "discountPrice": null
-  },
-  {
-    "name": "Value Pack ",
-    "price": "\u0930\u0942 1,148",
-    "discountPrice": null
-  },
-  {
-    "name": "Healthy Pack ",
-    "price": "\u0930\u0942 1,098",
-    "discountPrice": null
-  },
-  {
-    "name": "Kattha Mittha Pack ",
-    "price": "\u0930\u0942 853",
-    "discountPrice": null
-  },
-  {
-    "name": "Donation Pack 6 KG Rice & 1 KG Daal (Pulses) ",
-    "price": "\u0930\u0942 536",
-    "discountPrice": null
-  },
-  {
-    "name": "Bundle of chana daal 1 kg, basmati usina rice 5 kg, sunflow oil 1 litre ",
-    "price": "\u0930\u0942 980",
-    "discountPrice": null
-  },
-  {
-    "name": "Monthly Essential Pack 2 ",
-    "price": "\u0930\u0942 1,635",
-    "discountPrice": null
-  }
+    {
+        "name": "Snack Pack- Coca Cola 2.25l and Samyang Noodles Pack of 5 ",
+        "price": "\u0930\u0942 1,110",
+        "discountPrice": "\u0930\u0942 999"
+    },
+    {
+        "name": "Knorr Chicken Cube 20gm - Pack of 4 ",
+        "price": "\u0930\u0942 140",
+        "discountPrice": null
+    },
+    {
+        "name": "Godrej Bundle ",
+        "price": "\u0930\u0942 1,136",
+        "discountPrice": null
+    },
+    {
+        "name": "Healthy Care Pack ",
+        "price": "\u0930\u0942 1,348",
+        "discountPrice": null
+    },
+    {
+        "name": "Personal Care Pack ",
+        "price": "\u0930\u0942 945",
+        "discountPrice": null
+    },
+    {
+        "name": "Home Care Pack ",
+        "price": "\u0930\u0942 1,131",
+        "discountPrice": null
+    },
+    {
+        "name": "Value Pack ",
+        "price": "\u0930\u0942 1,148",
+        "discountPrice": null
+    },
+    {
+        "name": "Healthy Pack ",
+        "price": "\u0930\u0942 1,098",
+        "discountPrice": null
+    },
+    {
+        "name": "Kattha Mittha Pack ",
+        "price": "\u0930\u0942 853",
+        "discountPrice": null
+    },
+    {
+        "name": "Donation Pack 6 KG Rice & 1 KG Daal (Pulses) ",
+        "price": "\u0930\u0942 536",
+        "discountPrice": null
+    },
+    {
+        "name": "Bundle of chana daal 1 kg, basmati usina rice 5 kg, sunflow oil 1 litre ",
+        "price": "\u0930\u0942 980",
+        "discountPrice": null
+    },
+    {
+        "name": "Monthly Essential Pack 2 ",
+        "price": "\u0930\u0942 1,635",
+        "discountPrice": null
+    }
 ]

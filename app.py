@@ -23,7 +23,7 @@ products = []
 for li in lis:
     product = li.find('a', class_="product-item-link")
     price = li.find_all('span', class_="price")
-    if(product):
+    if(product and price):
         products.append({
             "name": product.string.replace("\n", ""),
             "price": price[0].string,
